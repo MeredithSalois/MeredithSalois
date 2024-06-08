@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AI Audit of Let's Foodie 🫛</b>
-  <li><b>Coming Soon...</b></li>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - Coming Soon...
+- <b>Django Portfolio Project</b>
+  - [PythonAnywhere Django project](https://github.com/MeredithSalois/Django-Portfolio-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
