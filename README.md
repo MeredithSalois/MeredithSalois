@@ -1,4 +1,4 @@
-<h1>Hiya, I'm Meredith! <br/><a href="https://github.com/MeredithSalois/AI-Projects">AI Auditor</a>, <a href="https://www.linkedin.com/in/meredithsalois/">Data Analyst</a>, <a href="https://github.com/MeredithSalois">Programmer</a>, <a href="https://www.linkedin.com/in/meredithsalois/">LinkedIn</a></h1>
+<h1>Hiya, I'm Meredith! <br/><a href="https://github.com/MeredithSalois/AI-Projects">AI Auditor</a>, <a href="https://www.linkedin.com/in/meredithsalois/">Data Analyst</a>, and <a href="https://github.com/MeredithSalois">Programmer</a>
 
 <h2>🤖 AI Projects</h2>
 
