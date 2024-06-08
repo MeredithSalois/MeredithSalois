@@ -12,7 +12,7 @@
 <h2>🤖 AI Projects</h2>
 
 - <b>AI Audit of Let's Foodie 🫛</b>
-  - Coming Soon...
+  - [Coming Soon...](https://github.com/MeredithSalois/AI-Projects)
 
 <h2>🖊️ Tendor Examples, PowerPoints, and Other Documents</h2>
 
