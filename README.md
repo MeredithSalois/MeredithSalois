@@ -8,10 +8,8 @@
   - [PythonAnywhere Django project](https://github.com/MeredithSalois/Django-Portfolio-Practice)
 - <b>Rstudio Projects</b>
   - [Analyzing the Impact of Visual and Audio Interruptions on Tetris Gameplay Using RStudio 🕹️](https://github.com/MeredithSalois/Rstudio-Project)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>ProDocsLibrary</b>
+  - [Project Management Plan/Tendor Doc Example](https://github.com/MeredithSalois/ProDocsLibrary/blob/main/Project%20Management%20Plan.pdf)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
