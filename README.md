@@ -6,11 +6,8 @@
   - Coming Soon...
 - <b>Django Portfolio Project</b>
   - [PythonAnywhere Django project](https://github.com/MeredithSalois/Django-Portfolio-Practice)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Rstudio Projects</b>
+  - [Analyzing the Impact of Visual and Audio Interruptions on Tetris Gameplay Using RStudio 🕹️](https://github.com/MeredithSalois/Rstudio-Project)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
