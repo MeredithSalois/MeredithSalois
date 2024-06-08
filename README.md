@@ -12,8 +12,9 @@
  
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Python and Django Portfolio Project</b>
+- <b>Python Project</b>
   - [PythonAnywhere Django project](https://github.com/MeredithSalois/Django-Portfolio-Practice)
+  - [Text Analysis with Machine Learning using Python and Jupyter](https://github.com/MeredithSalois/Text-Analysis-with-Machine-Learning)
 
 <h2>🖊️ Tendor Examples, PowerPoints, and Other Documents</h2>
 
