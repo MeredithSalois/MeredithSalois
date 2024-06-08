@@ -12,11 +12,8 @@
  
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Django Portfolio Project</b>
+- <b>Python and Django Portfolio Project</b>
   - [PythonAnywhere Django project](https://github.com/MeredithSalois/Django-Portfolio-Practice)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 <h2>🖊️ Tendor Examples, PowerPoints, and Other Documents</h2>
 
