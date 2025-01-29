@@ -3,7 +3,7 @@
 <h2>🤖 AI Projects</h2>
 
 - <b>AI Audit of Let's Foodie 🫛</b>
-  - [Coming Soon...](https://github.com/MeredithSalois/AI-Projects)
+  - [Ethical Implications of AI in Food Technology: An Analysis of Let’s Foodie](https://github.com/MeredithSalois/AI-Projects)
 
 <h2>📈 Data Analyst Projects:</h2>
 
